@@ -1,8 +1,10 @@
 #Trading Algorithm Projects
+
 Welcome to my trading algorithm projects repository! This collection includes various projects focused on algorithmic trading strategies, data analysis, and financial modeling. 
 Whether you're a seasoned trader, a data enthusiast, or someone looking to delve into the world of algorithmic trading, you'll find valuable resources and insights here.
 
 Introduction
+
 Algorithmic trading involves using computer algorithms to trade financial markets. This repository contains a variety of projects that explore different trading strategies, data processing techniques, 
 and market analysis tools. The goal is to provide a comprehensive toolkit for developing and testing trading algorithms.
 
