@@ -9,6 +9,7 @@ Algorithmic trading involves using computer algorithms to trade financial market
 and market analysis tools. The goal is to provide a comprehensive toolkit for developing and testing trading algorithms.
 
 Project List
+
 Moving Average Crossover Strategy:
 
 Description: Implements a simple moving average crossover strategy to generate buy/sell signals.
