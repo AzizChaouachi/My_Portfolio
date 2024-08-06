@@ -13,19 +13,23 @@ Project List
 Moving Average Crossover Strategy:
 
 Description: Implements a simple moving average crossover strategy to generate buy/sell signals.
+
 Key Features: Configurable parameters, backtesting capability, performance metrics.
 
 Mean Reversion Strategy:
 
 Description: Focuses on mean reversion principles, identifying overbought and oversold conditions.
+
 Key Features: Custom indicators, signal generation, backtesting.
 
 Momentum Trading Strategy:
 
 Description: Utilizes momentum indicators to capture market trends and generate trade signals.
+
 Key Features: Momentum indicators, entry/exit rules, performance evaluation.
 
 Statistical Arbitrage Strategy:
 
 Description: Utilizes statistical methods to identify and exploit price inefficiencies between related financial instruments.
+
 Key Features: Pair trading, cointegration analysis, spread calculation, backtesting.
