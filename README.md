@@ -1,42 +1,5 @@
-#Trading Algorithm Projects
+## Introduction
 
-Welcome to my trading algorithm projects repository! This collection includes various projects focused on algorithmic trading strategies, data analysis, and financial modeling. 
-Whether you're a seasoned trader, a data enthusiast, or someone looking to delve into the world of algorithmic trading, you'll find valuable resources and insights here.
-
-*Introduction
-
-Algorithmic trading involves using computer algorithms to trade financial markets. This repository contains a variety of projects that explore different trading strategies, data processing techniques, 
-and market analysis tools. The goal is to provide a comprehensive toolkit for developing and testing trading algorithms.
-
-*Project List
-
-+Moving Average Crossover Strategy:
+Welcome to my finance projects repository! This collection showcases a variety of projects related to finance, including financial modeling, trading algorithms, and risk simulations. Whether you're interested in understanding option pricing, exploring trading strategies, or running Monte Carlo simulations to estimate financial outcomes, you'll find useful resources here. Each project is designed to provide insights into different aspects of financial analysis and decision-making. Feel free to explore, adapt, and contribute to these projects to enhance your understanding of financial concepts and techniques.
 
 
-Description: Implements a simple moving average crossover strategy to generate buy/sell signals.
-
-Key Features: Configurable parameters, backtesting capability, performance metrics.
-
-
-+Mean Reversion Strategy:
-
-
-Description: Focuses on mean reversion principles, identifying overbought and oversold conditions.
-
-Key Features: Custom indicators, signal generation, backtesting.
-
-
-+Momentum Trading Strategy:
-
-
-Description: Utilizes momentum indicators to capture market trends and generate trade signals.
-
-Key Features: Momentum indicators, entry/exit rules, performance evaluation.
-
-
-+Statistical Arbitrage Strategy:
-
-
-Description: Utilizes statistical methods to identify and exploit price inefficiencies between related financial instruments.
-
-Key Features: Pair trading, cointegration analysis, spread calculation, backtesting.
