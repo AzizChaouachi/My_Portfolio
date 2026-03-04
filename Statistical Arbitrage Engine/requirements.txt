@@ -1,0 +1,25 @@
+# Statistical Arbitrage Engine — Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core scientific stack
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Market data
+yfinance>=0.2.30
+
+# Alpaca paper trading API
+alpaca-trade-api>=3.0.0
+
+# Visualization (optional, for plotting)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Jupyter (optional, for notebooks)
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Testing
+pytest>=7.4.0
